@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hardmasr.github.io/hard-masr1/sitemap.xml
